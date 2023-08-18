@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "282138601586",
+    "project_id": "nexusaura-d03bd",
+    "storage_bucket": "nexusaura-d03bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282138601586:android:4225d893bb4160de0fbaeb",
+        "android_client_info": {
+          "package_name": "com.example.nexus_aura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282138601586-p51prpmpio7cbpfptk6pg9tdfklbetl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nexus_aura",
+            "certificate_hash": "57d07e914b137b89a546e117aa1b61fbbae5b342"
+          }
+        },
+        {
+          "client_id": "282138601586-06f5h2tuff92lptg6g203ak8kob5v3tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZ18ckhRvKgw4V3ApghzTKYOY8uMJosU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282138601586-06f5h2tuff92lptg6g203ak8kob5v3tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">282138601586-06f5h2tuff92lptg6g203ak8kob5v3tp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">282138601586</string>
+    <string name="google_api_key" translatable="false">AIzaSyBTZ18ckhRvKgw4V3ApghzTKYOY8uMJosU</string>
+    <string name="google_app_id" translatable="false">1:282138601586:android:4225d893bb4160de0fbaeb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBTZ18ckhRvKgw4V3ApghzTKYOY8uMJosU</string>
+    <string name="google_storage_bucket" translatable="false">nexusaura-d03bd.appspot.com</string>
+    <string name="project_id" translatable="false">nexusaura-d03bd</string>
+</resources>
